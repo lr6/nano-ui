@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "git@github.com:lr6/nano-ui.git",
   "author": "lr6 <36.zhibo@gmail.com>",
+  "keywords": [
+    "nano-ui",
+    "component",
+    "components",
+    "design",
+    "react-component",
+    "ui"
+  ],
   "license": "MIT"
 }
